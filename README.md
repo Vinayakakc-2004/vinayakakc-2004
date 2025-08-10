@@ -44,12 +44,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakakc-2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vinayakakc-2004&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinayakakc-2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vinayakakc-2004&theme=radical&t=123" alt="GitHub Streak" />
 </p>
 
 ### 🏅 Most Used Languages
